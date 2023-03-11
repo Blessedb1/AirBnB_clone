@@ -112,6 +112,3 @@ help or help <command> Ex:
 * Amenity
 * Place
 * Review
-
-# Authors
-* Besthor Igbe <igbebestor7@gmail.com>
